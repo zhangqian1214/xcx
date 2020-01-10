@@ -1,3 +1,4 @@
+//vue中使用动画vue-particles,的配置文件
 {
   "particles": {
     "number": {
